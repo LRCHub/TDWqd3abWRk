@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スイミングガール",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T17:02:29.885527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイミングガール",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/01_スイミングガール_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイミングガール",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_スイミングガール_BaseBallBear.txt"
+    }
+  ]
+}
